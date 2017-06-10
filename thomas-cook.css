@@ -1,0 +1,261 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+#container{
+  margin: auto;
+  width: 80%;
+}
+header{
+  height: 55px;
+  background-color: rgba(11, 11, 11, 0.06);
+  color: rgb(61, 134, 176);
+  border-bottom: 3px solid rgb(236, 211, 42);
+  }
+.entete{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: auto;
+  width: 80%;
+  padding-top: 10px;
+}
+.agence {
+  margin-right: 50px;
+}
+.numero{
+  line-height: 5%;
+}
+.numero h3{
+  font-size: 0.95em;
+}
+.numero p{
+  font-size: 0.7em;
+}
+#thomas{
+  display: flex;
+  justify-content: space-around;
+}
+
+#menuS{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.menu{
+  margin-left: 70px;
+}
+#first-part{
+  display: flex;
+}
+.click{
+  height: 500px;
+  width: 500px;
+  background-color: #45474a;
+  margin-right: 20px;
+}
+#cir{
+  margin-right: 12px;
+}
+#promo{
+  margin-top: 10px;
+}
+.circuit{
+  display: row;
+}
+.dernier-minute{
+  flex-direction: column;
+}
+
+h1{
+  margin: 40px 0px 40px 0px;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.sejour{
+  display: flex;
+  justify-content: flex-end;
+}
+.button{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #397d93;
+  color: #397d93;
+  width: 250px;
+  height: 35px;
+}
+#part-three{
+  display: flex;
+}
+.left-cont3{
+  display: flex;
+  flex-direction: column;
+  padding-right: 20px;
+}
+#croatie{
+  padding-bottom: 20px;
+}
+#greece{
+  display: row;
+}
+.part{
+  display: flex;
+  justify-content: space-between;
+}
+#club{
+  margin-bottom: 20px;
+}
+#partenaire{
+  margin-top: -50px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.upup{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.carré{
+  background-color: #397D93;
+  width: 90px;
+  height: 90px;
+}
+.haut{
+  color: #397D93;
+  margin-right: 20px;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+#bleu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #397D93;
+  height: 205px;
+}
+.icones{
+  margin-right: 75px;
+  color: white;
+  font-size: 0.8em;
+  text-align: center;
+  font-weight: bold;
+}
+#icones{
+  color: white;
+  font-size: 0.8em;
+  text-align: center;
+  font-weight: bold;
+}
+.gris{
+  background-color: #282828;
+  height: 480px;
+  color: white;
+}
+.asterisme{
+  font-size: 0.7em;
+  text-align: center;
+  padding: 50px 0 50px 0;
+}
+.tout-gris{
+  display: flex;
+}
+.aide-left{
+  padding-left: 130px;
+}
+.autres-sites{
+  margin-left: -115px;
+}
+ table, tr, td{
+  border: 1px solid white;
+  padding: 20px 20px;
+  border-collapse: collapse;
+  text-align: center;
+}
+h3{
+  padding-bottom: 20px;
+}
+#tel{
+  font-size: 2.2em;
+  font-weight: bold;
+}
+#appel{
+  font-size: 1.3em;
+}
+.mail{
+  font-size: 0.9em
+}
+.faq{
+  padding: 25px 0 25px 0;
+  }
+.trouver-middle{
+margin-left: -10%;
+}
+.postal{
+  border: 1px solid white;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+  font-size: 0.9em;
+}
+.black{
+  background-color: #1B1B1B;
+  height: 500px;
+  color: white;
+}
+.tout-black{
+  padding-top: 30px;
+  display: flex;
+}
+.a-propos{
+display: flex;
+flex-direction: column;
+padding-left: 130px;
+}
+.catalogues{
+  margin-left: -30px;
+}
+.presse{
+  line-height: 40px;
+  font-size: 0.85em;
+}
+.blanc{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  margin: 0px 90px 0px 90px;
+  color: #777777;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.footer{
+  background-color: #D6D8D9;
+  height: 150px;
+  display: block;
+}
+.paiement{
+  padding-top: 15px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.tout-footer{
+
+  margin: 0px 30px 20px 30px;
+  font-size: 0.8em;
+}
+.end{
+  padding-top: 20px;
+}
+.textes{
+  text-align: center;
+  font-size: 0.8em;
+}
