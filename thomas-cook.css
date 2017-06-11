@@ -408,25 +408,24 @@ h1
     background-color: white;
     color: #388199;
 }
-.box3{
+.box3
+{
     left: 0%;
 }
-.button3{
+.button3
+{
     left: 75px;
 }
-.box4{
-  left: 1px;
-  width: 464px;
-  top: 50%;
+.box4
+{
+    left: 1px;
+    width: 464px;
+    top: 50%;
 }
-.button4{
-  top:564px;
+.button4
+{
+    top:564px;
 }
-
-
-
-
-
 .part
 {
     font-weight: bold;
