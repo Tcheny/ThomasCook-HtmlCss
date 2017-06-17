@@ -109,6 +109,14 @@ header
 
     padding-bottom: 30px;
 }
+.separator
+{
+    border: none;
+    box-shadow: none;
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
 /*Les formulaires par bloc*/
 .formulaire1
 {
